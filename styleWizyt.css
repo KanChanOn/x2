@@ -1,0 +1,42 @@
+body {
+background-color: #e8f4ff;
+font-family: Arial, sans-serif;
+text-align: center:
+}
+.karta {
+background-color: white;
+width: 500px;
+margin: 50px auto;
+padding: 30px;
+border-radius: 20px;
+box-shadow: 0 4px 15px #999;
+}
+h1 {
+color: #1565c0;
+}
+h2 {
+color: #555
+}
+p {
+font-size: 30px;
+line-height: 1.6;
+}
+img {
+width: 150px;
+height: 150px;
+border-radius: 50%;
+object-fit: cover;
+}
+buton {
+background-color: #1565c0;
+color: white;
+border: none;
+padding: 12px 25px;
+border-radius: 10px;
+font-size:16px;
+cursor: pointer;
+margin: 10px;
+}
+buton:hover {
+background-color: #0d47a1;
+}
